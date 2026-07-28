@@ -1,2 +1,2 @@
-Project 1 
-This is project titled "Financial Perception of the Middle Class Household's Youth of India towards the Share Market."
+# Financial-Perception-of-the-Middle-Class-Households-Youth-of-India-towards-the-Share-Market
+The share market has become an increasingly important investment avenue in India, yet participation among middle-class youth remains limited due to various financial and behavioural factors. This study aims to investigate the financial perceptions of youth from middle-class households towards the share market using a survey-based statistical approach. By applying descriptive statistics, chi-square tests, correlation analysis, and simple linear regression, the project identifies key factors influencing investment decisions and provides data-driven insights.
